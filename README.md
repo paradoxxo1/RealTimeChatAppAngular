@@ -94,13 +94,6 @@ chat-application/
     └── tsconfig.json
 ```
 
-![1](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/6314e875-d8d7-45d9-be3d-e0534bf03f4f)
-![2](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/69b9d6d4-463c-4307-93fd-1301ec5ea83d)
-![3](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/0320390a-f41a-411b-9e13-320cb07101ca)
-![4](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/561d2ea9-423b-4e67-a201-e635f54ff728)
-
-
-
 ## Usage
 1. Open your browser and navigate to `http://localhost:4200`.
 2. Enter a username to join a chat room.
@@ -112,3 +105,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
+![1](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/6314e875-d8d7-45d9-be3d-e0534bf03f4f)
+![2](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/69b9d6d4-463c-4307-93fd-1301ec5ea83d)
+![3](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/0320390a-f41a-411b-9e13-320cb07101ca)
+![4](https://github.com/paradoxxo1/RealTimeChatAppAngular/assets/124463263/561d2ea9-423b-4e67-a201-e635f54ff728)
